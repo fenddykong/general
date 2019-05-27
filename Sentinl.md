@@ -35,7 +35,7 @@ root@a123456789:/opt/kibana/config# vi kibana.yml
 ------------
 Restart Kibana service with below command
 ~~~
-service restart kibana
+root@a123456789:/opt/kibana/config# service kibana restart
 ~~~
 
 **3. Configure watcher in Sentinl**
